@@ -1,0 +1,110 @@
+body{
+    background-color: #F7F7F7;
+}
+
+h2{
+    font-size: 25px;
+    width: 294px;
+    height:36px;
+    box-sizing: border-box;
+    margin-left: 180px;
+    color: #000000;
+    
+}
+
+
+.firstarticle{
+    margin-left: 180px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    width: 1079px;
+    height: 169px;
+    color: #434343;
+}
+
+
+.thebig{
+    width: 1260px;
+    height: 594.66px;
+    display: inline-block;
+    color: #434343;
+    background-color: #FFFFFF;
+    margin-bottom: 90px;
+    margin-left: 90px;
+    margin-bottom: 90.34px;
+
+}
+
+.div1{
+    display: inline-block;
+    font-size: 18px;
+    color: #434343;
+    width: 438px;
+    height: 126px;
+    margin-left: 90px;
+}
+
+.div2{
+    display: inline-block;
+    font-size: 18px;
+    color: #434343;
+    width: 438px;
+    height: 126px;
+    margin-left: 90px;
+}
+
+.div3{
+    display: inline-block;
+    font-size: 18px;
+    color: #434343;
+    width: 438px;
+    height: 126px;
+    margin-left: 90px;
+}
+
+.div4{
+    display: inline-block;
+    font-size: 18px;
+    color: #434343;
+    width: 438px;
+    height: 126px;
+    margin-left: 90px;
+}
+
+h3{
+    margin-left: 180px;
+    width: 469px;
+    height: 180px;
+    font-size: 25px;
+
+}
+    
+.thebig2{
+    margin-top: 60px;
+    margin-left: 180px;
+    width: 794px;
+    height: 326px;
+}
+
+.thebig2 p{
+    color: #262626;
+    font-size: 18px;
+    height: 326px;
+    width: 794px;
+    margin-top: 60px;
+    margin-left: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
