@@ -72,11 +72,14 @@ h2{
 }
 
 h3{
-    margin-left: 180px;
-    width: 469px;
-    height: 180px;
     font-size: 25px;
-
+    width: 469px;
+    height:36px;
+    box-sizing: border-box;
+    margin-left: 180px;
+    color: #000000;
+   
+    
 }
     
 .thebig2{
@@ -84,6 +87,7 @@ h3{
     margin-left: 180px;
     width: 794px;
     height: 326px;
+
 }
 
 .thebig2 p{
